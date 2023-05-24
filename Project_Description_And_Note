@@ -1,0 +1,13 @@
+*Tools use*
+1)Selenium 4.9.1
+2)TestNG 7.7.1
+3)WebdriverManager 5.3.3
+4)Log4j 1.2.17
+5)ExtentReports 2.14.2
+6)Maven
+  
+*Framework- Data driven  
+
+Note- Coding was done on the basis of selective Testcases.
+     
+
